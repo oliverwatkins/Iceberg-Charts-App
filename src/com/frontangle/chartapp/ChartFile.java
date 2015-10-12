@@ -2,6 +2,11 @@ package com.frontangle.chartapp;
 
 import java.io.Serializable;
 
+/**
+ * 
+ * 
+ * @author oliver
+ */
 public class ChartFile implements Serializable{
 	
 	public ChartFile(String name, String location) {
